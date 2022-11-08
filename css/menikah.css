@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script");
+@import url("https://fonts.googleapis.com/css?family=Lato|Raleway|Rouge+Script|League+Spartan");
 .has-vertically-aligned-content {
   display: flex;
   flex-direction: column;
@@ -50,11 +50,11 @@ html {
 
 
 .hero .title {
-  font-family: 'Rouge Script', sans-serif;
+  font-family: 'League Spartan', sans-serif;
   font-weight: 700;
   transform: rotate(-2deg);
   font-size: 5rem;
-  padding-bottom: 5px;
+  adding-bottom: 5px;
   color: whitesmoke;
 }
 
